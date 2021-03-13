@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter import messagebox  # doesn't work unless i do this
+from tkinter import messagebox
 import footballLeague as fbL
 
 
